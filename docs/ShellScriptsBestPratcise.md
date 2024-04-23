@@ -10,7 +10,8 @@
 
 * https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/
 
-FROM: * https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425
+FROM: https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425
+
 # Table of Contents
 - [set -e, -u, -x, -o pipefail](#set--e--u--x--o-pipefail)
 - [set -e](#set--e)
