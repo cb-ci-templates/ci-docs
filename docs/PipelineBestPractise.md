@@ -22,11 +22,6 @@
 * https://edwin-philip.medium.com/jenkins-declarative-pipeline-as-shared-library-101091fddbc1
 * https://www.jenkins.io/blog/2017/10/02/pipeline-templates-with-shared-libraries/
 
-# About sh steps and shell scripts/steps
-
-* When to use shell: https://google.github.io/styleguide/shellguide.html#s1.2-when-to-use-shell
-* Bash settings: http://redsymbol.net/articles/unofficial-bash-strict-mode/
-* Shell exit codes https://www.cyberciti.biz/faq/bash-get-exit-code-of-command/
 
 # ParallelSteps/Stages
 
