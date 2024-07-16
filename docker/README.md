@@ -11,4 +11,8 @@ docker push caternberg/curl-yq-jq
 docker push caternberg/curl-yq-jq:<TAG>
 ```
 
+# Kaniko caching 
+
+* https://stackoverflow.com/questions/72754983/kaniko-image-cache-in-jenkins-kubernetes-agents/73402039#73402039
+
  
